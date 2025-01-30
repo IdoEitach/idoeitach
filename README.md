@@ -1,7 +1,7 @@
 
 
 ##
-my name is ido 
+my name is ido ##\n
 Eager to learn new skills and adapt to new challenges. 
 a bit about me 
   - 🔭 I’m currently working on c++ game bot and some sides react projects.
