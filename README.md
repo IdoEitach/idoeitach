@@ -2,8 +2,8 @@
 
 ##
 my name is ido 
--Eager to learn new skills and adapt to new challenges. 
--a bit about me 
+- Eager to learn new skills and adapt to new challenges. 
+- a bit about me 
   - 🔭 I’m currently working on c++ game bot and some sides react and node js projects.
   - 🌱 I’m currently learning c ,c++ ,assembley
   - 👯 I’m looking to collaborate on projects that combining ai  
