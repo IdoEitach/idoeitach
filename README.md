@@ -1,11 +1,3 @@
-# My Project
-[![GitHub stars](https://img.shields.io/github/stars/IdoEitach/idoeitach.svg)](https://github.com/IdoEitach/idoeitach/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/IdoEitach/idoeitach.svg)](https://github.com/IdoEitach/idoeitach/network)
-[![GitHub issues](https://img.shields.io/github/issues/IdoEitach/idoeitach.svg)](https://github.com/IdoEitach/idoeitach/issues)
-[![GitHub license](https://img.shields.io/github/license/IdoEitach/idoeitach.svg)](https://github.com/IdoEitach/idoeitach/blob/main/LICENSE)
-
-⚠️ **Not for the faint of heart!** Soldiers will fall, sacrifices will be made, and only the strongest strategist will prevail.
-
 ## Description
 Brief description of your project, what it does and its purpose.
 
