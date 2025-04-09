@@ -10,11 +10,9 @@ my name is ido
 
 ## Table of Contents
 - [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Usage
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IdoEitach&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IdoEitach&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdoEitach)
-
 
